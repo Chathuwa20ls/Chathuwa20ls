@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Chathuwa20ls
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+pkg update && pkg upgrade
 
-<!---
-Chathuwa20ls/Chathuwa20ls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+apt install python python2 git -y
+
+ pip2 install requests mechanize
+
+ pip2 install bs4
+
+ git clone https://github.com/DEVIL-HACK143/XAMI
+
+ cd XAMI
+
+ python2 HACKER.py
+
+
+
+Key
+XAMI-007
